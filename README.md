@@ -1,16 +1,25 @@
-## Hi there 👋
+# About
+Hey! I'm Max, often known as axxy or qwuikky, a Russian beginner Python coder. I don't do anything too serious, don't even expect.
 
-<!--
-**axxydr1xed/axxydr1xed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns are he/him, and if anyone wonders - I'm cis.
 
-Here are some ideas to get you started:
+I rarely code anything, but whenever I do it is always equally as useless, simple and dumb. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm a minor btw yeah gonna leave that here just in case
+# Projects
+**Main project - [FunnyHub](github.com/axxydr1xed/FunnyHub)**
+
+Small old projects
+
+- [DumbassCalculator](github.com/axxydr1xed/DumbassCalculator)
+
+	<small> a better version of it is included in FunnyHub! </small>
+
+- [WordCombiner](github.com/axxydr1xed/WordCombiner)
+
+# Socials
+
+Discord - axxydr1xed
+TikTok (rarely any posts) - [qwuikky98](tiktok.com/user/@qwuikky98)
+Telegram channel - [da qwuikky](t.me/@qwuikkkky)
+Steam - [max](https://steamcommunity.com/profiles/76561198776527518/)
