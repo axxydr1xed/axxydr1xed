@@ -1,3 +1,4 @@
+![think](https://github.com/user-attachments/assets/955d0e28-17d3-41ff-b622-ac90d1d3da50) ![think](https://github.com/user-attachments/assets/955d0e28-17d3-41ff-b622-ac90d1d3da50) ![think](https://github.com/user-attachments/assets/955d0e28-17d3-41ff-b622-ac90d1d3da50)
 # About
 Hey! I'm Max, often known as axxy or qwuikky, a Russian beginner Python coder. I don't do anything too serious, don't even expect.
 
