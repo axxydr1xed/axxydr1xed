@@ -9,13 +9,9 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 # Projects
-**Main project - [FunnyHub](github.com/axxydr1xed/FunnyHub)**
-
-Small old projects
+- [FunnyHub](github.com/axxydr1xed/FunnyHub)
 
 - [DumbassCalculator](github.com/axxydr1xed/DumbassCalculator)
-
-	<small> a better version of it is included in FunnyHub! </small>
 
 - [WordCombiner](github.com/axxydr1xed/WordCombiner)
 
