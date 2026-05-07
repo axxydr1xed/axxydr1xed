@@ -2,7 +2,9 @@
 
 # About
 Hey! I'm Max, often known as axxy or qwuikky, a Russian beginner Python coder. I don't do anything too serious, don't even expect.
+
 he/any
+
 I rarely code anything, but whenever I do it is always equally as useless, simple and dumb. 
 
 i'm a minor btw yeah gonna leave that here just in case
@@ -16,8 +18,11 @@ i'm a minor btw yeah gonna leave that here just in case
 # Socials
 
 Discord - axxydr1xed
+
 TikTok (rarely any posts) - [qwuikky98](tiktok.com/user/@qwuikky98)
+
 Telegram channel - [da qwuikky](t.me/@qwuikkkky)
+
 Steam - [max](https://steamcommunity.com/profiles/76561198776527518/)
 
 # Credits
