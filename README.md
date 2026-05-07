@@ -2,9 +2,7 @@
 
 # About
 Hey! I'm Max, often known as axxy or qwuikky, a Russian beginner Python coder. I don't do anything too serious, don't even expect.
-
-My pronouns are he/him, and if anyone wonders - I'm cis.
-
+he/any
 I rarely code anything, but whenever I do it is always equally as useless, simple and dumb. 
 
 i'm a minor btw yeah gonna leave that here just in case
