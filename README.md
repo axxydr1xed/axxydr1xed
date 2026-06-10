@@ -9,6 +9,8 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 # Projects
+- [MicroShell](github.com/axxydr1xed/microshell)
+  
 - [Slashphabet](github.com/axxydr1xed/slashphabet)
 
 - [FunnyHub](github.com/axxydr1xed/FunnyHub) <- Deprecated
@@ -17,6 +19,7 @@ i'm a minor btw yeah gonna leave that here just in case
 
 - [WordCombiner](github.com/axxydr1xed/WordCombiner) <- Ditto
 
+can you tell that i've only just came back to github because of the sheer insanity of the skill difference between the projects
 # Socials
 
 Discord - axxydr1xed
