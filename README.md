@@ -9,17 +9,17 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 # Projects
-- [FunnyHub](github.com/axxydr1xed/FunnyHub)
+- [Slashphabet](github.com/axxydr1xed/slashphabet)
 
-- [DumbassCalculator](github.com/axxydr1xed/DumbassCalculator)
+- [FunnyHub](github.com/axxydr1xed/FunnyHub) <- Deprecated
 
-- [WordCombiner](github.com/axxydr1xed/WordCombiner)
+- [DumbassCalculator](github.com/axxydr1xed/DumbassCalculator) <- Ditto
+
+- [WordCombiner](github.com/axxydr1xed/WordCombiner) <- Ditto
 
 # Socials
 
 Discord - axxydr1xed
-
-TikTok (rarely any posts) - [qwuikky98](tiktok.com/user/@qwuikky98)
 
 Telegram channel - [da qwuikky](t.me/@qwuikkkky)
 
